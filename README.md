@@ -139,4 +139,4 @@ Feel free to check out more of my work. My GitHub account is linked below
 
 Github Profile: http://github.com/Gopika2514
 
-Gist link: https://github.com/Gopika2514/Regex-Tutorial/blob/main/gist-template.md
+Gist link: https://gist.github.com/Gopika2514/72143392df12a1da778b829b3337dfa6
