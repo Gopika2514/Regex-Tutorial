@@ -138,3 +138,5 @@ Myself, Gopika and I am a full-stack bootcamp student.
 Feel free to check out more of my work. My GitHub account is linked below
 
 Github Profile: http://github.com/Gopika2514
+
+Gist link: https://github.com/Gopika2514/Regex-Tutorial/blob/main/gist-template.md
